@@ -1,0 +1,20 @@
+
+####consultado el 12/06/2023####
+
+Metodologia de la programacion orientada a Objetos, pag 8, "La Programacion"
+Leonardo Lopez, 
+
+
+Programación orientada a objetos con C++, 5ª edición. Pag xvii
+Foo. Javier Caballos Sierra
+
+
+https://kataix.umag.cl/~ruribe/Utilidades/Introduccion%20a%20la%20Programacion%20Orientada%20a%20Objetos.pdf
+pag 29 polimorfismo
+
+
+herencia
+(Barnes, D. J., Kölling, M. (2016). Programación Orientada a Objetos con Java: Una introducción práctica usando BlueJ. Pearson Educación).
+
+encapsulamiento
+(Farrell, Joyce. "Programación Orientada a Objetos en C++". Cengage Learning, 2017).
