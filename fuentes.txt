@@ -18,3 +18,18 @@ herencia
 
 encapsulamiento
 (Farrell, Joyce. "Programación Orientada a Objetos en C++". Cengage Learning, 2017).
+
+
+15/06/2023
+
+Clean Architecture
+Martin, R. C. (2017). Clean Architecture: A Craftsman's Guide to Software Structure and Design. Prentice Hall.
+
+
+SOLID
+Martin, R. C. (2017). Clean Architecture: A Craftsman's Guide to Software Structure and Design. Prentice Hall.
+
+
+SCRUM
+https://libroslibres.uls.edu.sv/informatica/informacion_basica_scrum.pdf
+https://ingenio.edu.pe/blog/cuales-son-los-3-pilares-de-scrum-y-para-que-sirven/#:~:text=El%20portal%20de%20Scrum.org,proceso%20emp%C3%ADrico%20de%20la%20metodolog%C3%ADa.
