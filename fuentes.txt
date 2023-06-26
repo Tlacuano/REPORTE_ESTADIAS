@@ -33,3 +33,57 @@ Martin, R. C. (2017). Clean Architecture: A Craftsman's Guide to Software Struct
 SCRUM
 https://libroslibres.uls.edu.sv/informatica/informacion_basica_scrum.pdf
 https://ingenio.edu.pe/blog/cuales-son-los-3-pilares-de-scrum-y-para-que-sirven/#:~:text=El%20portal%20de%20Scrum.org,proceso%20emp%C3%ADrico%20de%20la%20metodolog%C3%ADa.
+
+18/06/2023
+
+--roles y responssabilidades scrum
+"Scrum: The Art of Doing Twice the Work in Half the Time" 2014, Jeff Sutherland
+
+https://www2.deloitte.com/es/es/pages/technology/articles/roles-y-responsabilidades-scrum.html
+
+
+--Artefactos y eventos
+Libro: "Scrum: The Art of Doing Twice the Work in Half the Time"
+Autor: Jeff Sutherland
+Año de publicación: 2014
+
+
+
+25/06/2023
+
+DMS
+
+Kendall, K. E., & Kendall, J. E. (2014). Análisis y diseño de sistemas (8.a ed.). Pearson.
+
+
+Requisitos
+Libro: "Análisis y Diseño de Sistemas de Información" (4ª edición)
+Autor: James A. Senn
+Editorial: Cengage Learning Editores
+Año de publicación: 2011
+ISBN: 978-607-481-155-8
+
+
+
+
+type script
+https://www.typescriptlang.org/docs/
+
+Node.js
+https://nodejs.org/docs/latest-v14.x/api/
+
+vueJs
+https://vuejs.org/v2/guide/
+
+postgreSql
+https://www.postgresql.org/
+
+API RESTful
+https://www.redhat.com/es/topics/api/what-is-a-rest-api
+
+JWT
+https://auth0.com/docs/tokens/json-web-tokens
+
+visual estudio code
+https://code.visualstudio.com/
+
